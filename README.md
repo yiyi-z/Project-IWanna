@@ -11,6 +11,12 @@ Just download and run [Iwanna.jar](https://github.com/yiyi-z/Project-Java-IWanna
 
 You can also download all the [source codes](https://github.com/yiyi-z/Project-Java-IWannaPlayIWanna/tree/main/TileGame) and run Launcher.java :)
 
+## You can build your own map!
+
+You can easily modify this game's map by modifying the txt files inside [res/tiles](https://github.com/yiyi-z/Project-IWanna/tree/main/TileGame/res/tiles) and [res/entities](https://github.com/yiyi-z/Project-IWanna/tree/main/TileGame/res/entities). 
+
+Instructions on how to do this are provided [here](https://github.com/yiyi-z/Project-IWanna/blob/main/Documentation/Guide%20to%20Make%20New%20Maps.pdf).
+
 ## Demo of the game
 
 ### Game control info and level choosing
@@ -22,4 +28,4 @@ You can also download all the [source codes](https://github.com/yiyi-z/Project-J
 https://user-images.githubusercontent.com/85339193/148450033-e4b620ff-870a-47d8-a1f8-d01c0c84970d.mov
 
 
-## You can build your own levels!
+
